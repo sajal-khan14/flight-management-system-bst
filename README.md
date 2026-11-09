@@ -19,7 +19,4 @@ One flight per line, comma-separated:
 
 Order: ID, source, destination, airline, departure, arrival, duration (H:MM/hours), price (PKR), status. Do not use commas inside fields.
 
-## How to run
-1. Keep `main.cpp` and `flights.txt` in the same folder.
-2. Compile: `g++ main.cpp -o flights` (or open `main.cpp` in Visual Studio and run).
-3. Run `flights` and use the menu.
+
